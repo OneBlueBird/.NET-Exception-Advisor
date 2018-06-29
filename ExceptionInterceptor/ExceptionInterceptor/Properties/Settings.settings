@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExceptionInterceptor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AddInName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ExceptionInterceptor</Value>
+    </Setting>
+    <Setting Name="XMLOutputPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\ExceptionInterceptorOutput\DAExceptionsReport.xml</Value>
+    </Setting>
+    <Setting Name="HTMLOutputPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\ExceptionInterceptorOutput\DAExceptionsManagementReport.html</Value>
+    </Setting>
+    <Setting Name="ExcelOutputPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\ExceptionInterceptorOutput\DAExceptionsManagementReport.xls</Value>
+    </Setting>
+    <Setting Name="TempProjectPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\ExceptionInterceptorOutput\TempProjectFolder\</Value>
+    </Setting>
+    <Setting Name="CSEmptyProject" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EmptyProject.zip</Value>
+    </Setting>
+    <Setting Name="CSEmptyProjectType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CSharp</Value>
+    </Setting>
+    <Setting Name="VBEmptyProject" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EmptyProject.zip</Value>
+    </Setting>
+    <Setting Name="VBEmptyProjectType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">VB</Value>
+    </Setting>
+    <Setting Name="XSLTPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\ExceptionInterceptor\ExceptionInterceptor\Configuration\DAExceptions.xsl</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
